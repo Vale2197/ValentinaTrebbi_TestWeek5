@@ -1,0 +1,15 @@
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\bin\Debug\net6.0\OOPCode.exe
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\bin\Debug\net6.0\OOPCode.deps.json
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\bin\Debug\net6.0\OOPCode.runtimeconfig.json
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\bin\Debug\net6.0\OOPCode.dll
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\bin\Debug\net6.0\OOPCode.pdb
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\OOPCode.csproj.AssemblyReference.cache
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\OOPCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\OOPCode.AssemblyInfoInputs.cache
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\OOPCode.AssemblyInfo.cs
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\OOPCode.csproj.CoreCompileInputs.cache
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\OOPCode.dll
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\refint\OOPCode.dll
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\OOPCode.pdb
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\OOPCode.genruntimeconfig.cache
+C:\Users\vave1\Desktop\c#-.NET\SETTIMANA5PROVAOOOP\OOPCode\OOPCode\obj\Debug\net6.0\ref\OOPCode.dll

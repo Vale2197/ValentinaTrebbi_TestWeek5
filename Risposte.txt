@@ -1,0 +1,10 @@
+Valentina
+Trebbi
+01/04/2022
+
+1) c-d
+
+2) vengono memorizzati nell'heap, perchè le stringhe sono un tipo di reference type
+
+3) a-b;
+
